@@ -35,7 +35,7 @@
 # Languages & Tools 👨‍💻 🛠:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,c,cs,cpp,cloudflare,css,discord,eclipse,fastapi,firebase,flask,git,github,html,illustrator,js,linux,matlab,mysql,notion,opencv,powershell,py,pytorch,r,sklearn,tensorflow,ubuntu,vscode&perline=6" />
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,c,cs,cpp,cloudflare,css,discord,eclipse,fastapi,firebase,flask,git,github,html,js,linux,matlab,mysql,notion,opencv,powershell,py,pytorch,r,sklearn,tensorflow,ubuntu,vscode&perline=15" />
   </a>
 </p>
 
@@ -49,11 +49,11 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="waradsoham04@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/soham-warad-38019026b/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </br>
 </br>
 </br>
