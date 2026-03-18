@@ -43,28 +43,25 @@
 
 # Contact Me :
 
-<p>
- </br>
-
-
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:waradsoham04@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-<a href="https://www.linkedin.com/in/soham-warad-38019026b/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-<a href="https://www.instagram.com/__soham.w/">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</br>
-</br>
-</br>
-</a>
+<p>
+  <a href="mailto:waradsoham04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/soham-warad-38019026b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/__soham.w/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
+<br/>
 
-
-<p align="center" >  
-![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stokesy-dev&theme=dark&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stokesy-dev&theme=dark&show_icons=true" />
+</p>
   </a>
   </p>
 
