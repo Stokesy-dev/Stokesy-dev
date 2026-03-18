@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/Jujutsu%20Kaisen%20GIF.gif">
+<img hight="250" width="550" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/Jujutsu%20Kaisen%20GIF.gif">
 </div>
 
 </br>
