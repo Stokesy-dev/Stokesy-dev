@@ -49,7 +49,7 @@
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="waradsoham04@gmail.com">
+<a href="mailto:waradsoham04@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 <a href="https://www.linkedin.com/in/soham-warad-38019026b/">
@@ -64,8 +64,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 <p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+![Soham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stokesy-dev&theme=dark&show_icons=true)
   </a>
   </p>
 
