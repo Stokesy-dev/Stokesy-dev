@@ -33,10 +33,11 @@
 
 
 # Languages & Tools 👨‍💻 🛠:
-</br>
-
 <p align="center">
-[![My Skills](https://skillicons.dev/icons?i=arch,arduino,autocad,bash,c,cs,cpp,cloudflare,css,discord,eclipse,fastapi,firebase,flask,git,github,gmail,html,ai,js,kali,linux,matlab,mint,mysql,notion,obsidian,opencv,powershell,py,pytorch,r,sklearn,tensorflow,ubuntu,vscode&perline=6)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,c,cs,cpp,cloudflare,css,discord,eclipse,fastapi,firebase,flask,git,github,html,illustrator,js,linux,matlab,mysql,notion,opencv,powershell,py,pytorch,r,sklearn,tensorflow,ubuntu,vscode&perline=6" />
+  </a>
+</p>
 
 
 
