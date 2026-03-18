@@ -54,6 +54,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 <a href="https://www.linkedin.com/in/soham-warad-38019026b/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.instagram.com/__soham.w/">
+  <img src="https://skillicons.dev/icons?i=instagram" />
 </br>
 </br>
 </br>
