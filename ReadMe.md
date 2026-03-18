@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="250" width="550" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/Jujutsu%20Kaisen%20GIF.gif">
+<img hight="250" width="550" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0310.gif">
 </div>
 
 </br>
@@ -13,7 +13,7 @@
 
 ### - I'm 21 years old Machine Learning, Artificial Intelligence, Deep Learning & Data Science Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/rick%20and%20morty%20GIF.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0311.gif">
 
 ### - Learning :
 - ✨ Generative AI
