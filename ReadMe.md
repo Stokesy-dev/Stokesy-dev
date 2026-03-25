@@ -1,7 +1,7 @@
-# Konichiwa 👋
+# HI 👋
 
 <div align="center">
-<img hight="250" width="550" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0310.gif">
+<img hight="225" width="500" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/_.gif">
 </div>
 
 </br>
