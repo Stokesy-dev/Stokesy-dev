@@ -13,7 +13,7 @@
 
 ### - I'm 21 years old Machine Learning, Artificial Intelligence, Deep Learning & Data Science Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0311.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0303.gif">
 
 ### - Learning :
 - ✨ Generative AI
