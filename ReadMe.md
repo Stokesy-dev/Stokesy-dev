@@ -1,49 +1,54 @@
-# HI 👋
-
+# Hi 👋 I'm Soham Warad
 <div align="center">
-<img hight="225" width="500" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/_.gif">
+<img height="225" width="500" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/_.gif">
 </div>
 
-</br>
-</br>
-</br>
+</br></br></br>
 
+# About Me 💬
 
-# About ME 💬 :
+### 21 y/o AI & Data Science Engineer from India 🇮🇳
+### Final Year BTech — MIT World Peace University, Pune
 
-### - I'm 21 years old Machine Learning, Artificial Intelligence, Deep Learning & Data Science Enthusiast from India.
+<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0303.gif">
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/0303.gif">
+### 🔬 Research
+- 📄 **Published preprint:** Exposing Subject-Leakage in Parkinson's UPDRS Severity Estimation — IEEE-format paper on voice biomarker analysis & explainable AI
+- 🧠 Interests: Healthcare AI · Explainability · Deep Learning · Generative AI
 
-### - Learning :
+### 📚 Currently Learning
 - ✨ Generative AI
 - ✨ Data Science
 - ✨ Data Structures and Algorithms
 
-### - Hobbies : 
-- ✨ Cricket
-- ✨ Football
-- ✨ Watching Anime
-- ✨ Watching Movies
+### 🎮 Hobbies
+- ✨ Cricket & Football
+- ✨ Watching Anime & Movies
+
+</br></br></br>
+
+# 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Parkinson's UPDRS Estimator](https://github.com/Stokesy-dev/Parkinson-s-UPDRS-Severity-Estimator) | Explainable deep learning for UPDRS severity regression. Exposes subject-leakage in 20+ prior papers. | PyTorch · SHAP · Streamlit |
+| [Neural Network from Scratch](https://github.com/Stokesy-dev/Neural-Network-from-Scratch) | Built a neural network from scratch without ML libraries | Python · NumPy |
 
 </br>
-</br>
-</br>
 
+# Languages & Tools 👨‍💻 🛠
 
-
-# Languages & Tools 👨‍💻 🛠:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,arduino,bash,c,cs,cpp,cloudflare,css,discord,eclipse,fastapi,firebase,flask,git,github,html,js,linux,matlab,mysql,notion,opencv,powershell,py,pytorch,r,sklearn,tensorflow,ubuntu,vscode&perline=15" />
   </a>
 </p>
 
+</br>
 
+# Contact Me 📬
 
-# Contact Me :
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out — doubt, collab, or just to talk — ping me 😉
 
 <p>
   <a href="mailto:waradsoham04@gmail.com">
@@ -57,12 +62,8 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </a>
 </p>
 
-<br/>
+</br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Stokesy-dev&theme=dark&show_icons=true" />
 </p>
-  </a>
-  </p>
-
-*************
