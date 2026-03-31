@@ -1,6 +1,6 @@
 # Hi 👋 I'm Soham Warad
 <div align="center">
-<img height="225" width="500" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/_.gif">
+<img height="275" width="500" alt="GIF" align="center" src="https://github.com/Stokesy-dev/Stokesy-dev/blob/main/_.gif">
 </div>
 
 </br></br></br>
